@@ -1,0 +1,33 @@
+//bra barresi nasb kotlin:
+kotlinc -version
+
+//bra kampile file:
+kotlinc Main.kt -include-runtime -d Main.jar
+
+//bra ejra barname:
+java -jar Main.jar
+
+//khoroji:
+tamrin 40 var va val_Mohammad Taha Azadi
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-START-+-+-+-+-+-+-+-+-+--+-+-+-+-+-+-+-+-+-+
+Tedad Moshtari: 13
+Sen: 19
+Emtiaz: 150
+Gheymat: 500
+Tedad Ketab: 4
+Saat Kar: 10
+Score: 100
+Level: 2
+Tedad Jan: 90
+Tedad View: 1500
+Nam: Taha
+Famil: MTA
+Keshvar: Iran
+Shahr: Tehran
+Rang: Blue
+Zaban: Kotlin
+System Amel: Windows
+Noe Bazi: Action
+Brand: Canon
+Model: T900 Ultra
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-End+-+-+-+-+-+-+-+-+-+--+-+-+-+-+-+-+-+-+-+
